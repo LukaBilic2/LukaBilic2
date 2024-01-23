@@ -1,7 +1,7 @@
 ### Hi there, it's Luka here 👋
 
-- 🏢 I am currently studying Front-End-Development
-- 🎤 I love to learn new things on the internet
+- 📚 I am currently studying Front-End-Development
+- 👨‍💻 I love to learn new things on the internet
 
 ### Find more about me:
 
