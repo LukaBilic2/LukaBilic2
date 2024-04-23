@@ -5,8 +5,7 @@
 
 ### Find more about me:
 
-- Personal website -> Soon
-- LinkedIn -> Soon
+- Personal website -> https://my-portfolio-theta-swart-97.vercel.app/
 
 ### Languages and Tools:
 
